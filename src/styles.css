@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Hand:wght@400..700&family=Libertinus+Math&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Roboto ;
+}
+
+:root{
+    --div-fundo: #f8f9fa;
+    --branca: #ffffff;
+    --botao1: #198754;
+    --botao2: #DC3545;
+    --cor1: #d1efdd;
+    --cor2: #0D6EFD;
+}
+
+body{
+    margin: 20px;
+}
